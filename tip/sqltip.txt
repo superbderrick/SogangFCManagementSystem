@@ -4,3 +4,12 @@ FROM tab;
 모든 테이블 검색.
 
 //
+
+
+table name 
+Management 
+Step
+SugangFCPlayer
+Customer
+Equipment
+SupplyCompany

@@ -1,0 +1,3 @@
+00 - just changed frst table name attribue and make three tables too.
+
+DBprj_A56019__01 - added company and some items almost finish company.
