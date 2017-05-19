@@ -7,9 +7,8 @@ FROM tab;
 
 
 table name 
-Management 
+
+SogangFC
 Step
-SugangFCPlayer
-Customer
-Equipment
-SupplyCompany
+Management
+Player
