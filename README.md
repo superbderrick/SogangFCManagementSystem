@@ -3,3 +3,6 @@
 - Conceptual modeling , physical modeling with ERWin tool.
 - Interworking with DBMS(Mysql ,Oracle). 
 - If I have a spare time make the actual management system website with Django,python.
+
+![logical](./images/logical.png) 
+![physical](./images/physical.png) 
